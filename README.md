@@ -1,2 +1,2 @@
 # Image-Processing-with-Python
-Image processing exercises with Python from A to Z.
+Image processing libraries, functions and their usages in Python.
